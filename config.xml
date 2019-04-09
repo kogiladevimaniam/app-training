@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.otpam.appname" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>App Name</name>
+<widget id="com.infitt.vassipputhuligal" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Vassippu Thuligal</name>
     <description>
-     Mobile App Training
+    தேசியப்பள்ளி மாணவர்களுக்கு லகர, ளகர, ழகர சொற்களை உச்சரிக்கவும் பயன்படும் செயலியாகும்.
     </description>
     <author email="info@otpam.com" href="http://otpam.com">
    OTPAM
